@@ -1,8 +1,8 @@
 # The_Modulus
-illustrate modulus  
-first we let's go about divsion quickly : 
-let's do several test cases , 
-10 / 5 : How many meaning that line can carry ? 
+# illustrate modulus  
+# first we let's go about divsion quickly : 
+# let's do several test cases , 
+# 10 / 5 : How many meaning that line can carry ? 
 first and what we need  : how many number 5 accur in number 10 ? 
 10 / 5 = 2 ; 10 have a 2 complete cycle for 5 
 how to know there is remainder in 10 or not ? 
